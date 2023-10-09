@@ -41,7 +41,7 @@ class FindTheValue {
     }
 }
 
-public class codeathon04_vijay {
+public class Codeathon04_vijay {
     public static void main(String[] args) {
         FindTheValue ob = new FindTheValue();
         Scanner scanner = new Scanner(System.in);

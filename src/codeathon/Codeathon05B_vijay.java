@@ -2,7 +2,7 @@ package codeathon;
 
 import java.util.Scanner;
 
-public class codeathon05B_vijay {
+public class Codeathon05B_vijay {
     public static void main(String[] args) {
         System.out.println("Enter the value of x and y");
         Scanner sc = new Scanner(System.in);
